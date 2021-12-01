@@ -1,5 +1,15 @@
 ### Hi there 👋
+I am VishalVV! I love coding!
 
+I know - Discord.JS, JavaScript basics, Python basics.
+
+- 🔭 I’m currently working on Discord Bots
+- 🌱 I’m currently learning JavaScript and Discord.JS
+- 🤔 I’m looking for help with the above
+- 💬 Ask me about nothing as I am still a noob ;-;
+- 📫 How to reach me: Email - v3devrblx@gmail.com or vvvvishal2043@gmail.com 
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: this fact is not fun
 <!--
 **VishalVV4H/VishalVV4H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
