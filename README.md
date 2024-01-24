@@ -1,7 +1,7 @@
 ### Hi there 👋
-I am VishalVV! I love coding!
+I am Vishal V V, aka v3vishal! I love coding!
 
-I know - Discord.JS, JavaScript basics, Python basics.
+I know - Discord.JS, JavaScript, and Python basics.
 
 - 🔭 I’m currently working on Discord Bots
 - 🌱 I’m currently learning JavaScript and Discord.JS
@@ -11,7 +11,7 @@ I know - Discord.JS, JavaScript basics, Python basics.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: this fact is not fun
 <!--
-**VishalVV4H/VishalVV4H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**v3vishal/v3vishal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
