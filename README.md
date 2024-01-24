@@ -7,7 +7,7 @@ I know - Discord.JS, JavaScript, and Python basics.
 - 🌱 I’m currently learning JavaScript and Discord.JS
 - 🤔 I’m looking for help with the above
 - 💬 Ask me about nothing as I am still a noob ;-;
-- 📫 How to reach me: Email - vvvvishal2043@gmail.com or vcubegalaxy@gmail.com
+- 📫 How to reach me: Email - vvvvishal2043@gmail.com (preferred) or vcubegalaxy@gmail.com (if unable to send to other)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: this fact is not fun
 <!--
