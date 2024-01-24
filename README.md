@@ -3,8 +3,8 @@ I am Vishal V V, aka v3vishal! I love coding!
 
 I know - Discord.JS, JavaScript, and Python basics.
 
-- 🔭 I’m currently working on Discord Bots
-- 🌱 I’m currently learning JavaScript and Discord.JS
+- 🔭 I’m currently working on Preserving Ecosystems (check preserv-eco repo)
+- 🌱 I’m still learning JavaScript
 - 🤔 I’m looking for help with the above
 - 💬 Ask me about nothing as I am still a noob ;-;
 - 📫 How to reach me: Email - vvvvishal2043@gmail.com (preferred) or vcubegalaxy@gmail.com (if unable to send to other)
