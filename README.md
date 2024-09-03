@@ -3,11 +3,11 @@ I am Vishal V V, aka v3vishal! I love coding!
 
 I know - Discord.JS, JavaScript, and Python basics.
 
-- 🔭 I’m currently working on Preserving Ecosystems (check preserv-eco repo)
+- 🔭 I’m currently not working on anything at the moment :)
 - 🌱 I’m still learning JavaScript
 - 🤔 I’m looking for help with the above
-- 💬 Ask me about nothing as I am still a noob ;-;
-- 📫 How to reach me: Email - vvvvishal2043@gmail.com (preferred) or vcubegalaxy@gmail.com (if unable to send to other)
+- 💬 Ask me anything related to the tech industry, I love talking about it :)
+- 📫 How to reach me: Email - vcubegalaxy@gmail.com / Discord - v3xg
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: this fact is not fun
 <!--
