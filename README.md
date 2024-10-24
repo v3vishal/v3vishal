@@ -3,7 +3,7 @@ I am Vishal V V, aka v3vishal! I love coding!
 
 Coding Languages I have used in my career:
 
-<img width=48 height=48 hspace=4 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> <img width=48 height=48 hspace=4 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> <img width=48 height=48 hspace=4 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> <img width=48 height=48 hspace=4 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img width=48 height=48 hspace=4 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> <img width=48 height=48 hspace=4 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> <img width=48 height=48 hspace=4 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> <img width=48 height=48 hspace=4 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> <img width=48 height=48 hspace=4 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
 
 - 🔭 I’m currently working on [AgriFincaster!](https://github.com/v3vishal/agri-fincaster) :)
 - 🌱 I’m still learning JavaScript
