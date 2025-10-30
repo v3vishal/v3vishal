@@ -9,7 +9,7 @@ Coding Languages I have used in my career:
 - 🌱 I’m still learning JavaScript, and I'm working a lot on Kotlin!
 - 🤔 I’m looking for help with the above
 - 💬 Ask me anything related to the tech industry, I love talking about it :)
-- 📫 How to reach me: Email - vcubegalaxy@gmail.com / Discord - v3xg
+- 📫 How to reach me: Discord - v3xg
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: this fact is not fun
 
